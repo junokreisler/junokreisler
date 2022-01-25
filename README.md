@@ -16,9 +16,8 @@ as well as music theory, languages, arts and crafts, cooking, soccer and histori
 </font>. My interests are very broad, so I tend to get lost in many big and small, 
 often very unrelated ideas and projects. I also to overfill my day with various activities which leave little time to work on things 
 that can go here... sometimes, though, I do get a boost in motivation and muster something up. 
-I just can't really predict when that might happen.
 
-## gurl gotta git[hub] gud (gggg)
+## gggg (gurl gotta git[hub] gud)
 
 I'm still very much a noob at the stuff that I'm supposed to be putting out here. This place will serve, first and foremost, 
 as a repository of code I write out of personal interest, as well as code that builds on or remasters certain projects of mine 
