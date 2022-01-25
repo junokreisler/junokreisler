@@ -33,8 +33,8 @@ For bigger projects, I'll use their own repos, which I'll link as soon as they b
 
 ## and then?
 
-For now, I'm not going to discuss further stuff that might be in the works after I'm done with current plans.
-Let's see where all of this leads me.
+For now, I'm not going to discuss further stuff.
+Let's see where all of this goes.
 
 # baibai
 
