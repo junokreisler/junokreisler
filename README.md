@@ -10,10 +10,8 @@ Meanwhile, I want to become proficient in Python, R, C++, Java, Matlab, HTML/CSS
 ## me be doing some other things sometimes
 
 I'm also interested in small-scale game development... 
-<font size=0.1337>
 as well as music theory, languages, arts and crafts, cooking, soccer and historical political theories 
-(but this place isn't necessarily the best for displaying that)
-</font>. My interests are very broad, so I tend to get lost in many big and small, 
+(but this place isn't necessarily the best for displaying that). My interests are very broad, so I tend to get lost in many big and small, 
 often very unrelated ideas and projects. I also to overfill my day with various activities which leave little time to work on things 
 that can go here... sometimes, though, I do get a boost in motivation and muster something up. 
 
