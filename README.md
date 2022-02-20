@@ -1,8 +1,7 @@
 # oh hello there, you've landed on an obscure user profile
 
 I'm Juno Kreisler. Originally from Latvia, I'm currently in my last year of Bachelor's in Biology at ETH Zürich in Switzerland.
-The heavily theoretical, yet also often engineering-like mindset presented to me over the course of my studies 
-has inspired me to delve into Computational Biology, which is also the Master's degree that I'm enrolling myself in after my Bachelor's. 
+I've been most inspired by Computational Biology, which is also the Master's degree that I'm enrolling myself in after my Bachelor's. 
 
 My greatest life goal would be designing and analyzing synthetic life *in silico*. But that's probably for the second half of this century.
 Meanwhile, I want to become proficient in Python, R, C++, Java, Matlab, HTML/CSS/JS and SQL.
